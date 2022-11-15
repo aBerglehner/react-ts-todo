@@ -1,5 +1,5 @@
 import React from 'react';
-import { useState, useRef, useEffect } from 'react';
+import { useState, useRef } from 'react';
 import Todos from './Todos';
 import { TodosType } from './types';
 import uuid from 'react-uuid';
